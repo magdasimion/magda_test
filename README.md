@@ -1,0 +1,2 @@
+# magda_test
+curs
